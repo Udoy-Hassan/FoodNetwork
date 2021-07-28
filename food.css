@@ -1,0 +1,252 @@
+.first_section{
+    height: 800px;
+    background-image: url(photos/Frame\ 57.jpg), linear-gradient(45deg,rgb(153, 191, 194),rgb(136, 185, 250));
+    background-size: contain;
+}
+
+.introduction{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 3%;
+    margin-top: 8%;
+    
+
+}
+
+.introduction h1{
+    font-size: 60px;
+}
+
+.introduction p{
+    margin-bottom: 35px;
+}
+
+
+#skip{
+    color: rgb(245, 80, 20);
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    
+    
+}
+
+.model{
+    width: 40%;
+    float: left;
+    
+    padding-left: 5%;
+
+    margin-top: 3%;
+   
+   
+}
+
+
+.second_section{
+width: 100%;
+height: 600px;
+background-image: url(photos/Frame\ 58.jpg), linear-gradient(45deg,rgb(206, 201, 201),rgb(255, 253, 253));
+background-position:top;
+background-size: contain;
+background-repeat:repeat;
+
+   
+}
+
+.model2{
+    float: left;
+    width: 37%;
+    margin-left: 5%;
+    padding-left: 1%;
+    margin-top: 6.5%;
+}
+
+.about{
+    float: left;
+    width: 35%;
+
+    padding-left: 2%;
+    padding-top: 10%;
+    margin-top: 20px;
+    padding-right: 10%;
+    margin-right: 7%;
+}
+
+
+.third_section{
+    margin-top: 50px;
+    height: 170px;
+    text-align: center;
+    
+}
+
+.third_section h1{
+    font-size: larger;
+}
+
+
+
+
+
+
+.fourth_section{
+    height: 1200px;
+}
+.recepie1{
+    float: left;
+    width: 20%;
+    background-color: rgb(233, 240, 239);
+    border: 1px solid rgb(2, 71, 2);
+    margin-right: 8%;
+    margin-left: 11%;
+    text-align: center;
+    border-radius: 5%;
+
+    
+}
+
+.recepie2{
+    float: left;
+    width: 20%;
+    border: 1px solid rgb(2, 71, 2);
+    text-align: center;
+    border-radius: 5%;
+    background-color: rgb(233, 240, 239);
+}
+
+.recepie3{
+    float: left;
+    width: 20%;
+    border: 1px solid rgb(2, 71, 2);
+    margin-right: 11%;
+    margin-left: 8%;
+    text-align: center;
+    border-radius: 5%;
+    background-color: rgb(233, 240, 239);
+    
+}
+
+.recepie1 img{
+    height: 250px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 10px;
+    border-radius: 5%;
+    
+}
+
+
+
+.recepie2 img{
+
+    height: 250px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 10px;
+    border-radius: 5%;
+
+}
+
+
+
+.recepie3 img{
+    height: 250px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 10px;
+    border-radius: 5%;
+}
+
+
+.fifth_section{
+    
+    height: 180px;
+    margin-top: 600px;
+    margin-left: 11%;
+    margin-right: 11%;
+    background-color: rgb(241, 233, 233) ;
+    
+    
+   
+    
+}
+
+.youtube{
+    margin-left: 11%;
+    margin-right: 8%;
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding-top: 40px;
+
+}
+
+.instagram{
+    width: 20%;
+    float: left;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.dribble{
+    width: 20%;
+    margin-right: 11%;
+    margin-left: 8%;
+    float: left;
+    text-align: center;
+    padding-top: 40px;
+    
+}
+
+
+.sixth_section{
+    text-align: center;
+    height: 350px;
+    background-color: whitesmoke;
+    padding-top: 40px;
+    margin-top: 50px;
+    margin-left: 11%;
+    margin-right: 11%;
+}
+
+
+
+.button3{
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    border: none;
+}
+
+.seventh_section{
+    background-color: black;
+    height: 150px;
+    margin-top: 40px;
+}
+
+#footer{
+    color: chocolate;
+}
+
+.seventh_section h2{
+    color: white;
+    padding-top: 25px;
+    text-align: center;
+}
+
+.seventh_section p{
+    color: white;
+    text-align: center;
+}
